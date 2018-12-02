@@ -1,21 +1,9 @@
-# Aoc
+# Advent of Code 2018 - Day 1
 
-**TODO: Add description**
+**Solution to Day 1 of Advent of Code 2018 in Elixir**
 
-## Installation
+## Running
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `aoc` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:aoc, "~> 0.1.0"}
-  ]
-end
+```sh
+$ mix test
 ```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/aoc](https://hexdocs.pm/aoc).
-

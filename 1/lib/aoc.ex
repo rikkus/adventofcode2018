@@ -1,8 +1,10 @@
 defmodule Aoc do
+  @spec part_one([integer]) :: integer
   def part_one(input) do
     input |> Enum.sum
   end
 
+  @spec part_two([integer]) :: integer
   def part_two(input) do
     input
     |> Stream.cycle
