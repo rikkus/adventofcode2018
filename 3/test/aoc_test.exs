@@ -34,7 +34,7 @@ defmodule AocTest do
   end
 
   test "part_two" do
-    assert :mu == Aoc.part_two(@input)
+    assert 1124 == Aoc.part_two(@input)
   end
 
 end
